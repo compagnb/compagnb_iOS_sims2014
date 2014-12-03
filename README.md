@@ -15,10 +15,6 @@ Week 9 Homework:
 ![advancedGraphics](http://a.parsons.edu/~compagnb/sims2014/advancedGraphics.png)
 ![advancedGraphics 2](http://a.parsons.edu/~compagnb/sims2014/GraphicWOrientation.png)
 
-
-
-![GraphicW/Orientation](http://a.parsons.edu/~compagnb/sims2014/3dOrientation.png)(http://a.parsons.edu/~compagnb/sims2014/3dOrientation1.png)
-
-Week 3 Non-Code Homework:
+Week 10 Homework:
 ![GraphicW/Orientation](http://a.parsons.edu/~compagnb/sims2014/3dOrientation.png)(http://a.parsons.edu/~compagnb/sims2014/3dOrientation1.png)
 * [GraphicW/Orientation Video](http://youtu.be/5y8h8379biA)(http://youtu.be/PulyCiUhKTU)(http://youtu.be/udWmkNzTDV4)
